@@ -1,0 +1,10 @@
+username : java	password : this	contact : 420	Old User	subscribed	we
+username : avoy	password : this	contact : this	Old User	unsubsribed	wo
+username : aiub	password : aiub	contact : 209384	Old User	unsubsribed	we
+username : sami	password : sami	contact : 3874	New User	subscribed	we
+username : sami1	password : 1491	contact : 55	New User	unsubsribed
+username : rakin	password : avoy	contact : 432255432	Old User	unsubsribed	we
+username : rakin23	password : 123	contact : 24456	Old User	unsubsribed	we
+username : rakin12	password : 123	contact : 24155	Old User	unsubsribed	we
+username : apa	password : 1234	contact : 01772292817	Old User	unsubsribed	we
+username : rakin1234	password : 8806	contact : 233524	Old User	unsubsribed
